@@ -11,6 +11,7 @@ func main() {
 	fmt.Println(numIslands(grid))
 }
 
+//试题地址：https://leetcode-cn.com/problems/number-of-islands/
 func numIslands(grid [][]byte) int {
 	if len(grid) == 0 {
 		return 0

@@ -6,7 +6,7 @@ func main() {
 	height := []int{1, 8, 6, 2, 5, 4, 8, 3, 7}
 	fmt.Println(maxArea(height))
 }
-
+//试题地址：https://leetcode-cn.com/problems/container-with-most-water/
 func maxArea(height []int) int {
 	maxarea := 0
 	i := 0
