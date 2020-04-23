@@ -9,6 +9,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
+//试题地址：https://leetcode-cn.com/problems/add-two-numbers-ii/
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	num1 := listLen(l1)
 	num2 := listLen(l2)

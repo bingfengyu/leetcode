@@ -1,0 +1,17 @@
+day_2020_4_4:https://leetcode-cn.com/problems/trapping-rain-water/、https://leetcode-cn.com/problems/longest-valid-parentheses/
+day_2020_4_5:https://leetcode-cn.com/problems/lfu-cache/
+day_2020_4_8:https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/submissions/
+day_2020_4_9:https://leetcode-cn.com/problems/generate-parentheses/submissions/
+day_2020_4_10:https://leetcode-cn.com/problems/reverse-words-in-a-string/
+day_2020_4_11:https://leetcode-cn.com/problems/super-egg-drop/
+day_2020_4_13:https://leetcode-cn.com/problems/design-twitter/
+day_2020_4_14:https://leetcode-cn.com/problems/add-two-numbers-ii/
+day_2020_4_15:https://leetcode-cn.com/problems/01-matrix/submissions/、https://leetcode-cn.com/problems/two-sum/
+day_2020_4_16:https://leetcode-cn.com/problems/merge-intervals/、https://leetcode-cn.com/problems/add-two-numbers/、https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+day_2020_4_17:https://leetcode-cn.com/problems/jump-game/
+day_2020_4_18:https://leetcode-cn.com/problems/container-with-most-water/
+day_2020_4_19:https://leetcode-cn.com/problems/count-the-repetitions/
+day_2020_4_20:https://leetcode-cn.com/problems/number-of-islands/
+day_2020_4_21:https://leetcode-cn.com/problems/count-number-of-nice-subarrays/submissions/
+day_2020_4_22:https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/
+day_2020_4_23:https://leetcode-cn.com/problems/coin-lcci/
