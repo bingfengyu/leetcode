@@ -15,3 +15,4 @@ day_2020_4_20:https://leetcode-cn.com/problems/number-of-islands/
 day_2020_4_21:https://leetcode-cn.com/problems/count-number-of-nice-subarrays/submissions/
 day_2020_4_22:https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/
 day_2020_4_23:https://leetcode-cn.com/problems/coin-lcci/
+day_2020_4_24:https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
