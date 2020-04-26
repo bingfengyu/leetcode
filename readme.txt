@@ -16,3 +16,5 @@ day_2020_4_21:https://leetcode-cn.com/problems/count-number-of-nice-subarrays/su
 day_2020_4_22:https://leetcode-cn.com/problems/binary-tree-right-side-view/solution/
 day_2020_4_23:https://leetcode-cn.com/problems/coin-lcci/
 day_2020_4_24:https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
+day_2020_4_25:https://leetcode-cn.com/problems/permutations/submissions/
+day_2020_4_26:https://leetcode-cn.com/problems/merge-k-sorted-lists/、https://leetcode-cn.com/problems/edit-distance/
