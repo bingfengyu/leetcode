@@ -18,3 +18,13 @@ day_2020_4_23:https://leetcode-cn.com/problems/coin-lcci/
 day_2020_4_24:https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
 day_2020_4_25:https://leetcode-cn.com/problems/permutations/submissions/
 day_2020_4_26:https://leetcode-cn.com/problems/merge-k-sorted-lists/、https://leetcode-cn.com/problems/edit-distance/
+day_2020_4_27:https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
+day_2020_4_28:https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
+day_2020_4_29:https://leetcode-cn.com/problems/find-in-mountain-array/comments/
+day_2020_5_4:https://leetcode-cn.com/problems/jump-game-ii/
+day_2020_5_5:https://leetcode-cn.com/problems/validate-binary-search-tree/
+day_2020_5_7:https://leetcode-cn.com/problems/subtree-of-another-tree/
+day_2020_5_8:https://leetcode-cn.com/problems/maximal-square/
+day_2020_5_9:https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-leetc-2/
+day_2020_5_10:https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree
+day_2020_5_11:https://leetcode-cn.com/problems/powx-n/
